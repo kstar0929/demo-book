@@ -2,7 +2,8 @@
 title: Introduction
 seoTitle: title for search engines
 seoDescription: description for search engines
-excerpt:""
+excerpt: "This is a free excerpt of the chapter. To see the rest, you'll have to buy the book."
+
 ---
 
 ## What is Lorem Ipsum?
